@@ -1,0 +1,24 @@
+/**/
+header, footer, strong, #navigaLeft, .subhead, #set_public, #ignore_updates, #home {
+	display: none !important;
+}
+
+body {
+	height: 100%;
+}
+
+#wrap {
+	width: 100%;
+	margin: 0;
+}
+
+#waiting {
+	margin-left: 1rem;
+}
+
+.container {
+	padding: 0 !important;
+}
+
+
+/**/
